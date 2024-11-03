@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cvelasquezr8/social-media-backend.git
